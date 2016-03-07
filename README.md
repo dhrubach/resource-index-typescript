@@ -24,4 +24,17 @@ At the same time, I often feel intimidated to look at such a long list, a sinkin
   * Also available as a handbook [here](https://basarat.gitbooks.io/typescript/content/index.html)  
   * Main repo [here](https://github.com/basarat/typescript-book/)
 
+### :memo: Articles & Blog Posts
 
+#### :zap: Typings
+
+* [The State of TypeScript Packages](https://angularclass.com/the-state-of-typescript-packages/)
+  * blog post published in [Angular Class](https://github.com/AngularClass) by [Blake Embrey](https://github.com/blakeembrey)
+  * writes about some of the drawbacks of definitely typed, and what to expect from typings
+* [TypeScript Wiki On Github](https://github.com/Microsoft/TypeScript/wiki)
+  
+### :bulb: Repos
+
+* [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)
+* [Typings](https://github.com/typings/typings)
+* [Official TypeScript](https://github.com/Microsoft/TypeScript)
