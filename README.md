@@ -38,3 +38,9 @@ At the same time, I often feel intimidated to look at such a long list, a sinkin
 * [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * [Typings](https://github.com/typings/typings)
 * [Official TypeScript](https://github.com/Microsoft/TypeScript)
+
+### :speaker: Podcasts
+
+* TypeScript Deep Dive with Alex Eagle and Blake Embrey
+  * Podcast - Angular Air
+  * [Episode 50](https://youtu.be/5NuHRcvgu3g)
