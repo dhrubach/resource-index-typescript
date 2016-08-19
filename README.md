@@ -32,7 +32,9 @@ At the same time, I often feel intimidated to look at such a long list, a sinkin
   * blog post published in [Angular Class](https://github.com/AngularClass) by [Blake Embrey](https://github.com/blakeembrey)
   * writes about some of the drawbacks of definitely typed, and what to expect from typings
 * [TypeScript Wiki On Github](https://github.com/Microsoft/TypeScript/wiki)
-  
+
+* [TypeScript Official Release Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+
 ### :bulb: Repos
 
 * [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)
