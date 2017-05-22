@@ -31,6 +31,12 @@ At the same time, I often feel intimidated to look at such a long list, a sinkin
 * [The State of TypeScript Packages](https://angularclass.com/the-state-of-typescript-packages/)
   * blog post published in [Angular Class](https://github.com/AngularClass) by [Blake Embrey](https://github.com/blakeembrey)
   * writes about some of the drawbacks of definitely typed, and what to expect from typings
+  
+* [Typings FAQ](https://github.com/typings/typings/blob/master/docs/faq.md)
+  * important read - [How Typings Makes External Modules First Class](https://github.com/typings/typings/blob/master/docs/external-modules.md)
+* [TypeScript Guidelines](https://github.com/unional/typescript-guidelines)
+  * [File Types](https://github.com/unional/typescript-guidelines/blob/master/pages/files-and-projects/file-types.md)
+  
 * [TypeScript Wiki On Github](https://github.com/Microsoft/TypeScript/wiki)
 
 * [TypeScript Official Release Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
